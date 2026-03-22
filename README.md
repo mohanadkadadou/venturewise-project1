@@ -255,11 +255,21 @@ Below are screenshots of the running application:
 ---
 
 ### Project Analysis Result
+Analysis 1
 
-![analyasis](screenshots/analyasis1.png)
-![analyasis](screenshots/analyasis2.png)
-![analyasis](screenshots/analyasis3.png)
-![analyasis](screenshots/analyasis4.png)
+![Analysis 1](screenshots/analysis 1.png)
+
+Analysis 2
+
+![Analysis 2](screenshots/analysis 2.png)
+
+Analysis 3
+
+![Analysis 3](screenshots/analysis 3.png)
+
+Analysis 4
+
+![Analysis 4](screenshots/analysis 4.png)
 
 
 
@@ -275,7 +285,7 @@ Jobs Page
 ### project to investment 
 
 project to investment 
-![admin](screenshots/project-to-investment.png)
+![Investment](screenshots/project to investment .png)
 
 --- 
 
