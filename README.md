@@ -250,16 +250,16 @@ Below are screenshots of the running application:
 
 ### Home Page
 
-![home](screenshots/home-page.png)
+![home](screenshots/homepage.png)
 
 ---
 
 ### Project Analysis Result
 
-![analyasis](screenshots/analyasis-1.png)
-![analyasis](screenshots/analyasis-2.png)
-![analyasis](screenshots/analyasis-3.png)
-![analyasis](screenshots/analyasis-4.png)
+![analyasis](screenshots/analyasis1.png)
+![analyasis](screenshots/analyasis2.png)
+![analyasis](screenshots/analyasis3.png)
+![analyasis](screenshots/analyasis4.png)
 
 
 
