@@ -1,0 +1,21 @@
+packages:
+  "framer-motion": "For page transitions and smooth UI animations"
+  "recharts": "For admin dashboard and project analysis charts"
+  "react-hook-form": "For robust form state management"
+  "@hookform/resolvers": "For Zod validation integration with forms"
+  "zod": "For schema validation"
+  "clsx": "For class name merging"
+  "tailwind-merge": "For resolving Tailwind class conflicts"
+
+images:
+  - path: "artifacts/venturewise/public/images/hero-bg.png"
+    description: "Abstract premium dark blue background with subtle elegant gold geometric lines and soft volumetric lighting, corporate luxury style, clean dark slate space in the center"
+    aspect_ratio: "16:9"
+  - path: "artifacts/venturewise/public/images/logo-mark.png"
+    description: "Minimalist luxury logo mark featuring a stylized geometric letter V and W interwoven in metallic gold on a solid dark blue background"
+    aspect_ratio: "1:1"
+
+notes:
+  - Using generated API hooks from @workspace/api-client-react as specified in the context
+  - Using Wouter for routing
+  - Dark mode by default for the premium "Dark Blue and Gold" aesthetic

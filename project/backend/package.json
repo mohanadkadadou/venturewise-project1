@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/api-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bash /home/runner/workspace/artifacts/api-server/start.sh",
+    "build": "echo 'FastAPI - no build step needed'",
+    "start": "bash /home/runner/workspace/artifacts/api-server/start.sh"
+  }
+}
