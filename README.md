@@ -265,7 +265,7 @@ Analysis 2
 
 Analysis 3
 
-![Analysis 3](screenshots/analysis33.png)
+![Analysis 3](screenshots/analysis3.png)
 
 Analysis 4
 
